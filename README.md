@@ -1,4 +1,4 @@
-# Diploma project for course «Basics of JavaScript»
+# Diploma project for course 'Basics of JavaScript'
 
 This is a site for crypto-startup.
 On this site we can buy internal currency of Netcoin, transfer this currency to other users of the service.
